@@ -22,7 +22,7 @@ public class Painel extends JPanel {
 	
 	public Painel() {
 		
-		JLabel texto = new JLabel("Painel");
+		JLabel texto = new JLabel("Painel é Legal!");
 		texto.setFont(new Font("Arial", Font.BOLD, 25));
 		
 		this.setLayout(new FlowLayout());
